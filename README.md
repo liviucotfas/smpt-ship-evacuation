@@ -8,10 +8,12 @@ Please feel free to contact us at liviu.cotfas at ase .ro for further details.
 
 > Suggestion: You can download the animations below in order to watch them at a higher resolution.
 
-### 1. Event 1 - Scenario 1 - 300 passengers
+### 1. Event 1 - Scenario 1
+
+#### no. of passengers: 300 
 [![event1-s1-300](recordings/event1-s1-300.gif)](recordings/event1-s1-300.gif)
 
-### 2. Event 1 - Scenario 1 - 600 passengers
+#### no. of passengers: 600
 [![event1-s1-600](recordings/event1-s1-600.gif)](recordings/event1-s1-600.gif)
 
 ### 3. Event 1 - Scenario 2 - 300 passengers
